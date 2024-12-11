@@ -10,11 +10,6 @@ namespace GalapagosItemManager
 {
     internal class BMPHandler
     {
-        public static void DisplayBmp()
-        {
-            // GetFullBmpを頑張って表示させる
-        }
-
         public static byte[] GetFullBmp(byte[] picBytes, byte[] paletteBytes)
         {
             byte[] fullBmp = new byte[406]; // アイテム画像(bmp)は406byteで固定
