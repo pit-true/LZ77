@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<table>
+
+  <node>
+    <ID>f9 18</ID>
+    <moji>A</moji>
+  </node>
+
+  <node>
+    <ID>f9 19</ID>
+    <moji>B</moji>
+  </node>
+
+  <node>
+    <ID>f9 1a</ID>
+    <moji>C</moji>
+  </node>
+
+  <node>
+    <ID>f9 1b</ID>
+    <moji>D</moji>
+  </node>
+
+  <node>
+    <ID>f9 1c</ID>
+    <moji>E</moji>
+  </node>
+
+  <node>
+    <ID>f9 1d</ID>
+    <moji>F</moji>
+  </node>
+
+  <node>
+    <ID>f9 1e</ID>
+    <moji>G</moji>
+  </node>
+
+  <node>
+    <ID>f9 1f</ID>
+    <moji>H</moji>
+  </node>
+
+  <node>
+    <ID>f9 20</ID>
+    <moji>I</moji>
+  </node>
+
+  <node>
+    <ID>f9 21</ID>
+    <moji>J</moji>
+  </node>
+
+  <node>
+    <ID>f9 22</ID>
+    <moji>K</moji>
+  </node>
+
+  <node>
+    <ID>f9 23</ID>
+    <moji>L</moji>
+  </node>
+
+  <node>
+    <ID>f9 24</ID>
+    <moji>M</moji>
+  </node>
+
+  <node>
+    <ID>f9 25</ID>
+    <moji>N</moji>
+  </node>
+
+  <node>
+    <ID>f9 26</ID>
+    <moji>O</moji>
+  </node>
+
+  <node>
+    <ID>f9 27</ID>
+    <moji>P</moji>
+  </node>
+
+  <node>
+    <ID>f9 28</ID>
+    <moji>Q</moji>
+  </node>
+
+  <node>
+    <ID>f9 29</ID>
+    <moji>R</moji>
+  </node>
+
+  <node>
+    <ID>f9 2a</ID>
+    <moji>S</moji>
+  </node>
+
+  <node>
+    <ID>f9 2b</ID>
+    <moji>T</moji>
+  </node>
+
+  <node>
+    <ID>f9 2c</ID>
+    <moji>U</moji>
+  </node>
+
+  <node>
+    <ID>f9 2d</ID>
+    <moji>V</moji>
+  </node>
+
+  <node>
+    <ID>f9 2e</ID>
+    <moji>W</moji>
+  </node>
+
+  <node>
+    <ID>f9 2f</ID>
+    <moji>X</moji>
+  </node>
+
+  <node>
+    <ID>f9 30</ID>
+    <moji>Y</moji>
+  </node>
+
+  <node>
+    <ID>f9 31</ID>
+    <moji>Z</moji>
+  </node>
+
+  <node>
+    <ID>f9 32</ID>
+    <moji>a</moji>
+  </node>
+
+  <node>
+    <ID>f9 33</ID>
+    <moji>b</moji>
+  </node>
+
+  <node>
+    <ID>f9 34</ID>
+    <moji>c</moji>
+  </node>
+
+  <node>
+    <ID>f9 35</ID>
+    <moji>d</moji>
+  </node>
+
+  <node>
+    <ID>f9 36</ID>
+    <moji>e</moji>
+  </node>
+
+  <node>
+    <ID>f9 37</ID>
+    <moji>f</moji>
+  </node>
+
+  <node>
+    <ID>f9 38</ID>
+    <moji>g</moji>
+  </node>
+
+  <node>
+    <ID>f9 39</ID>
+    <moji>h</moji>
+  </node>
+
+  <node>
+    <ID>f9 3a</ID>
+    <moji>i</moji>
+  </node>
+
+  <node>
+    <ID>f9 3b</ID>
+    <moji>j</moji>
+  </node>
+
+  <node>
+    <ID>f9 3c</ID>
+    <moji>k</moji>
+  </node>
+
+  <node>
+    <ID>f9 3d</ID>
+    <moji>l</moji>
+  </node>
+
+  <node>
+    <ID>f9 3e</ID>
+    <moji>m</moji>
+  </node>
+
+  <node>
+    <ID>f9 3f</ID>
+    <moji>n</moji>
+  </node>
+
+  <node>
+    <ID>f9 40</ID>
+    <moji>o</moji>
+  </node>
+
+  <node>
+    <ID>f9 41</ID>
+    <moji>p</moji>
+  </node>
+
+  <node>
+    <ID>f9 42</ID>
+    <moji>q</moji>
+  </node>
+
+  <node>
+    <ID>f9 43</ID>
+    <moji>r</moji>
+  </node>
+
+  <node>
+    <ID>f9 44</ID>
+    <moji>s</moji>
+  </node>
+
+  <node>
+    <ID>f9 45</ID>
+    <moji>t</moji>
+  </node>
+
+  <node>
+    <ID>f9 46</ID>
+    <moji>u</moji>
+  </node>
+
+  <node>
+    <ID>f9 47</ID>
+    <moji>v</moji>
+  </node>
+
+  <node>
+    <ID>f9 48</ID>
+    <moji>w</moji>
+  </node>
+
+  <node>
+    <ID>f9 49</ID>
+    <moji>x</moji>
+  </node>
+
+  <node>
+    <ID>f9 4a</ID>
+    <moji>y</moji>
+  </node>
+
+  <node>
+    <ID>f9 4b</ID>
+    <moji>z</moji>
+  </node>
+
+  <shortcut>
+    <number>1</number>
+    <name>ていけいぶん1</name>
+    <moji>定型文1</moji>
+    <ID>fc 92 e8 fc 8c 5e fc 95 b6 a2</ID>
+  </shortcut>
+
+  <shortcut>
+    <number>2</number>
+    <name>ていけいぶん2</name>
+    <moji>定型文2</moji>
+    <ID>fc 92 e8 fc 8c 5e fc 95 b6 a3</ID>
+  </shortcut>
+
+  <shortcut>
+    <number>3</number>
+    <name>ていけいぶん3</name>
+    <moji>定型文3</moji>
+    <ID>fc 92 e8 fc 8c 5e fc 95 b6 a4</ID>
+  </shortcut>
+
+  <shortcut>
+    <number>4</number>
+    <name>ていけいぶん4</name>
+    <moji>定型文4</moji>
+    <ID>fc 92 e8 fc 8c 5e fc 95 b6 a5</ID>
+  </shortcut>
+
+  <shortcut>
+    <number>5</number>
+    <name>ていけいぶん5</name>
+    <moji>定型文5</moji>
+    <ID>fc 92 e8 fc 8c 5e fc 95 b6 a6</ID>
+  </shortcut>
+
+  <shortcut>
+    <number>6</number>
+    <name>ていけいぶん6</name>
+    <moji>定型文6</moji>
+    <ID>fc 92 e8 fc 8c 5e fc 95 b6 a7</ID>
+  </shortcut>
+
+  <shortcut>
+    <number>7</number>
+    <name>ていけいぶん7</name>
+    <moji>定型文7</moji>
+    <ID>fc 92 e8 fc 8c 5e fc 95 b6 a8</ID>
+  </shortcut>
+
+  <shortcut>
+    <number>8</number>
+    <name>ていけいぶん8</name>
+    <moji>定型文8</moji>
+    <ID>fc 92 e8 fc 8c 5e fc 95 b6 a9</ID>
+  </shortcut>
+
+  <shortcut>
+    <number>9</number>
+    <name>ていけいぶん9</name>
+    <moji>定型文9</moji>
+    <ID>fc 92 e8 fc 8c 5e fc 95 b6 aa</ID>
+  </shortcut>
+
+  <shortcut>
+    <number>10</number>
+    <name>ていけいぶん10</name>
+    <moji>定型文10</moji>
+    <ID>fc 92 e8 fc 8c 5e fc 95 b6 a2 a1</ID>
+  </shortcut>
+
+  <shortcut>
+    <number>11</number>
+    <name>ていけいぶん11</name>
+    <moji>定型文11</moji>
+    <ID>fc 92 e8 fc 8c 5e fc 95 b6 a2 a2</ID>
+  </shortcut>
+
+  <shortcut>
+    <number>12</number>
+    <name>ていけいぶん12</name>
+    <moji>定型文12</moji>
+    <ID>fc 92 e8 fc 8c 5e fc 95 b6 a2 a3</ID>
+  </shortcut>
+
+</table>
